@@ -1,0 +1,11 @@
+ai-crop-yield-prediction/
+│── data/
+│   └── crop_dataset.csv
+│── notebooks/
+│   └── crop_prediction.ipynb
+│── src/
+│   └── model.py
+│── results/
+│   └── plots/
+│── README.md
+│── requirements.txt
